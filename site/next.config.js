@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Jvarn Kasm',
     description: 'My Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://jvarn.github.io/kasm-registry/',
+    listUrl: 'https://varnham.net/kasm-registry/',
     contactUrl: 'https://github.com/jvarn/kasm-registry/issues',
   },
   reactStrictMode: true,
